@@ -52,6 +52,14 @@ sýnidæmi
 
 
 
+
+
+
+
+
+
+
+
 notes)
 góð útskiring 1)
 A game loop runs continuously during gameplay. 
