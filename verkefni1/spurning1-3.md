@@ -48,7 +48,27 @@ stæ/kóði sem sínir hreyfingu)
 Útskýrðu hvernig árekstur (e. collision detection) gæti verið útfærður í leik með
 sýnidæmi
 
+collision detection virkar með því að í hverju update í gameloop er tékkað hvort 
+að boundry á tvem hlutum krossast á eitthverjum púnt. ef það er ekkert collision 
+þá heldur hlutur áfram að gera það sem það var að gera en ef það er collision
+þá verður eitthvað að gerast svo að það hættir að klessa. oftast þegar tveir hlutir 
+klessast þa lætur maður þa fara í sitthvora átt eða einn hlutur "Ýtur" hinum hlutnum
 
+	BOOL TestAABBOverlap(AABB* a, AABB* b)
+	{
+	    float d1x = b->min.x - a->max.x;
+	    float d1y = b->min.y - a->max.y;
+	    float d2x = a->min.x - b->max.x;
+	    float d2y = a->min.y - b->max.y;
+
+	    if (d1x > 0.0f || d1y > 0.0f)
+		return FALSE;
+
+	    if (d2x > 0.0f || d2y > 0.0f)
+		return FALSE;
+
+	    return TRUE;
+	}
 
 
 
