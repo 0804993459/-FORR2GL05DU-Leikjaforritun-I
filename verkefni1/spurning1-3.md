@@ -70,7 +70,11 @@ klessast þa lætur maður þa fara í sitthvora átt eða einn hlutur "Ýtur" h
 	    return TRUE;
 	}
 
+4)
 
+myndband að sína leik
+
+https://www.youtube.com/watch?v=Ooi2RkU-OU0
 
 
 
