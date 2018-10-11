@@ -14,7 +14,9 @@ bigt af hexagon
 https://terrycavanaghgames.com/hexagon/
 
 
-mynband
+mynband 
+
+screencast-o-matic leyfði mer ekki að taka upp hljóð
 
 https://www.youtube.com/watch?v=t6BNhsTpNqE&feature=youtu.be&hd=1
 
