@@ -1,6 +1,6 @@
 # -FORR2GL05DU-Leikjaforritun-I
 
-verkefni 3
+# verkefni 3
 
 Leikjavél er hugbúnaður sem styður við þróun tölvuleikja. Leikjavél er hugbúnaðarrammi sem hægt er að byggja þróun tölvuleiksins á.
 
@@ -16,7 +16,7 @@ https://www.quora.com/What-are-the-differences-between-Unity-Engine-and-Unreal-E
 
 í 4d bætist auka ás sem er hægt er að nota vector4
 
-verkefni 2
+# verkefni 2
 
 {
 
