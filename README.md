@@ -1,5 +1,17 @@
 # -FORR2GL05DU-Leikjaforritun-I
 
+verkefni 3
+
+Leikjavél er hugbúnaður sem styður við þróun tölvuleikja. Leikjavél er hugbúnaðarrammi sem hægt er að byggja þróun tölvuleiksins á.
+
+lista yfir munum á unity og unreal engine
+
+https://www.quora.com/What-are-the-differences-between-Unity-Engine-and-Unreal-Engine
+
+2d er leikur sem keyra á x og y ás 
+í 3d bætist z ás
+2.5d er þegar þú býrð til 2d heim sem lítur út eins og 3d heimur dæmi: clash of clans
+í 4d bætist auka ás sem er hægt er að nota vector4
 
 verkefni 2
 
@@ -27,3 +39,5 @@ notað mörg myndbönd hjá honum mjög góð tutorial
 https://www.youtube.com/channel/UCYbK_tjZ2OrIZFBvU6CCMiA
 
 }
+
+
